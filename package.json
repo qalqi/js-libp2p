@@ -1,6 +1,6 @@
 {
   "name": "libp2p",
-  "version": "0.26.2",
+  "version": "0.26.3",
   "description": "JavaScript implementation of libp2p, a modular peer to peer network stack",
   "leadMaintainer": "Jacob Heun <jacobheun@gmail.com>",
   "main": "src/index.js",
@@ -54,7 +54,7 @@
     "interface-connection": "~0.3.3",
     "latency-monitor": "~0.2.1",
     "libp2p-crypto": "~0.16.1",
-    "libp2p-websockets": "^0.12.2",
+    "libp2p-websockets": "github:qalqi/js-libp2p-websockets#0.12.x",
     "mafmt": "^6.0.7",
     "merge-options": "^1.0.1",
     "moving-average": "^1.0.0",
